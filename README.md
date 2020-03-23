@@ -65,6 +65,29 @@ If you need particular states you can pass an array of state ids according to th
 <h3> State id reference Table </h3>
 
 | State / UT Name | id |
-|------------------|---|
+|---|---|
 |Andhra Pradesh|1|
+|Bihar|2|
+|Chattisgarh|3|
+|Delhi|4|
+|Gujarath|5|
+|Haryana|6|
+|Himachal Pradesh|7|
+|Karnataka|8|
+|Kerala|9|
+|Madhya Pradesh|10|
+|Maharashtra|11|
+|Odisha|12|
+|Puducherry|13|
+|Punjab|14|
+|Rajasthan|15|
+|Tamil Nadu|16|
+|Telengana|17|
+|Chandigarh|18|
+|Jammu & Kashmir|19|
+|Ladakh|20|
+|Uttar Pradesh|21|
+|Uttarakhand|22|
+|West Bengal|23|
+|Total of all States|24|
  
